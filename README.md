@@ -26,3 +26,12 @@ Desenvolvedor Front-End focado em criar interfaces eficientes, responsivas e cen
   <a href="mailto:martinsjoaogs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;
   <a href="https://www.instagram.com/gmartinssz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </div>
+
+### 🐍 Minhas Contribuições
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielmdsz/Gabrielmdsz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielmdsz/Gabrielmdsz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Gabrielmdsz/Gabrielmdsz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
