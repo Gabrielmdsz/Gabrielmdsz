@@ -7,7 +7,7 @@ Desenvolvedor Front-End focado em criar interfaces eficientes, responsivas e cen
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmdsz&layout=compact&langs_count=6&theme=cobalt)](https://github.com/Gabrielmdsz)
 
 ### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline-block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;
